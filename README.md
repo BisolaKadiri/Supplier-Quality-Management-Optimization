@@ -52,11 +52,24 @@ Once the data was structured and modeled, the next step was to design a user-fri
 - Downtime Cost: The financial impact of downtime, calculated at $10 per hour of downtime.
 
 ## Key Features:
+![Dashboard Preview](SQA1.png)
+
+
 - Overview Page: A snapshot of the critical metrics, including total defects, downtime hours, and the financial impact (Downtime Cost). The page included a monthly trend chart for defect quantities and downtime hours, along with a Worst Performers section for vendor, plant, and material breakdowns.
+![Dashboard Preview](SQA2.png)
+  
 - Vendor Performance: A Top N Analysis of vendors based on defect quantity or downtime hours, categorized into high, medium, and low-risk groups based on their contribution to downtime. This feature enabled targeted analysis of supplier performance.
+![Dashboard Preview](SQA3.png)
+  
 - Plant Performance: A map showing the geographic distribution of plants and their performance, along with a detailed breakdown of defects by location. This section also included a tooltip with additional metrics for each plant.
+![Dashboard Preview](SQA4.png)
+  
 - Material Performance: A breakdown of defect impact by material type, defect type, and category, with a focus on problematic materials like Logistics and Mechanicals defects.
+![Dashboard Preview](SQA5.png)
+  
 - Downtime Impact: This section highlighted the financial impact of downtime, with specific dates and periods (such as September and December) where downtime costs spiked.
+![Dashboard Preview](SQA6.png)
+  
 
 ## Key Insights
 - Rising Defects and Downtime: The company experienced 2.6 billion defective units and 216,000 hours of downtime, leading to a $2.16 million financial impact.
