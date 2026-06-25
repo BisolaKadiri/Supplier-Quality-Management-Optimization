@@ -88,4 +88,5 @@ Once the data was structured and modeled, the next step was to design a user-fri
 By leveraging business intelligence tools like Power BI, Enterprise Manufacturers Ltd. was able to transform raw data into actionable insights, identifying key suppliers, plants, and materials contributing to production inefficiencies. The implementation of this BI-driven approach not only highlighted operational inefficiencies but also paved the way for data-driven improvements across the supply chain. Centralizing procurement and performance data will allow the company to make more informed decisions, improve supplier relationships, and reduce production costs.
 
 
-View Full Dashboard Report (PDF) -![Dashboard Preview](Supplier Quality Analysis.pdf)
+## 📄 Dashboard Report
+[View Full Dashboard Report (PDF)](./Supplier Quality Analysis.pdf)
