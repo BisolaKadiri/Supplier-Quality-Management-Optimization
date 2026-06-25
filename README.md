@@ -89,4 +89,4 @@ By leveraging business intelligence tools like Power BI, Enterprise Manufacturer
 
 
 ## 📄 Dashboard Report
-[View Full Dashboard Report (PDF)](./Supplier Quality Analysis.pdf)
+[📥 View Full Dashboard Report (PDF)](./Supplier%20Quality%20Analysis.pdf)
